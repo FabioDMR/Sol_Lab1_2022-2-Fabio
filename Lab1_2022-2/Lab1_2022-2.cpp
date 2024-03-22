@@ -5,6 +5,7 @@
 const int MAX = 16;
 //Comentario oportuno
 //Visca Barca y Visca Catalunya
+// Visca Taylor Swift
 using namespace std;
 
 void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
