@@ -4,8 +4,7 @@
 #include <iostream>
 const int MAX = 16;
 //Comentario oportuno
-//Visca Barca y Visca Catalunya
-// Visca Taylor Swift
+//Visca Barciña y Visca Catalunya
 using namespace std;
 
 void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
